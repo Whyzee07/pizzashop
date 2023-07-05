@@ -1,0 +1,361 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.awww {
+	height: 190vh;
+	width: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.4),rgb(0, 0, 0 , 0.4)),url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: repeat-x;
+}
+
+#aaaaaa {
+	height: 100vh;
+	width: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.4),rgb(0, 0, 0 , 0.4)),url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+.hero {
+	height: 170vh;
+	width: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.4),rgb(0, 0, 0 , 0.4)),url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.heroo {
+	height: 255vh;
+	width: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.4),rgb(0, 0, 0 , 0.4)),url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+/*HOME*/
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 0px;
+	width: 100%;
+
+}
+
+.nav ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 2px 50px;
+	position: relative;
+
+}
+
+.nav ul li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+.nav ul li a:hover::after {
+	width: 50%;
+
+}
+.nav ul li a:hover{
+	background-color:#F70D1A;
+	transition: 0.3;
+	padding: 5px;
+	border-radius: 40%;
+}
+
+.jjj{
+	width: 100px;
+	border-radius: 60%;
+	margin-left: 70px;
+}
+
+.content h1 {
+	font-size: 20px;
+	margin-top: 200px;
+}
+
+.content{
+	font-size: 16px;
+	font-family: monospace;
+	width: 100%;
+	position: absolute;
+	top: 10%;
+	text-align: center;
+	color: white;
+}
+#ddd {
+  width: 300px;
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+ margin-top:40px;
+ 
+}
+
+#tired {
+	font-size: 15px;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	text-align: center;
+	font-family: monospace;
+
+
+}
+
+#dede {
+ 	margin-top: 20px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+#bbbbb {
+
+    align-items: center;
+    color: white;
+}
+#rara {
+	color: white;
+	margin-top: 450px;
+	font-size: 20px
+
+}
+
+#lllll {
+    color: white;
+    margin-top: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 25px;
+  background-color: black;
+  width: 300px;
+}
+
+
+/*ABOUT*/
+
+.content1 h3{
+font-size: 15px;
+}
+
+.content1 h1 {
+	font-size: 20px;
+	margin-top:10px;
+}
+
+.content1{
+	width: 100%;
+	position: absolute;
+	top: 30%;
+	text-align: center;
+	color: white;
+}
+.content2{
+	width: 100%;
+	position: absolute;
+	top: 45%;
+	text-align: center;
+	color: white;
+}
+
+.content2 h1 {
+	font-size: 20px;
+	margin-top:25px;
+}
+
+.content2 h3{
+font-size: 15px;
+}
+
+.content3 h3{
+font-size: 15px;
+}
+
+.content3 h1 {
+	font-size: 20px;
+	margin-top:60px;
+}
+.content3{
+	width: 100%;
+	position: absolute;
+	top: 70%;
+	text-align: center;
+	color: white;
+}
+.content4 h2{
+font-size: 20px;
+}
+
+.content4 h3{
+font-size: 15px;
+}
+
+.content4 h1 {
+	font-size: 20px;
+	margin-top:60px;
+}
+.content4{
+	width: 100%;
+	position: absolute;
+	top: 95%;
+	text-align: center;
+	color: white;
+}
+
+.content5 h3 {
+	color: white;
+	font-size: 20px;
+}
+
+.content6{
+	width: 100%;
+	position: absolute;
+	top: 115%;
+	text-align: center;
+	color: white;
+}
+
+.content6 h1 {
+	font-size: 20px;
+	margin-top:60px;
+
+}
+#pppp {
+	width: 100px;
+	align-items: center;
+	margin-top: 30px;
+
+}
+
+#pppp1 {
+height: 120px;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	border-block: block;
+	margin-top: 50px;
+	object-fit: cover;
+
+}
+
+#pppp2 {
+	height: 120px;
+	width: 100px;
+margin-left: auto;
+	margin-right: auto;
+	border-block: block;
+	object-fit: cover;
+
+}
+
+#mn {
+	margin-top: ;
+
+
+}
+
+#pppp3 {
+	height: 120px;
+	width: 100px;
+margin-left: auto;
+	margin-right: auto;
+	border-block: block;
+	top: 200px;
+	object-fit: cover;
+
+}
+
+
+
+/*CONTACT*/
+
+#rrr {
+	margin-top: 30px;
+	color: white;
+	font-size: 20px;
+}
+
+.rrrr{
+	color: white;
+	font-family: monospace;
+	margin-top: 60px;
+	margin-left: 17px;
+	font-size: 17px;
+	letter-spacing: 1px;
+
+}
+
+.rrrrr {
+	width: 350px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 30px;
+}
+
+#fuck {
+	color: white;
+	font-size: 20px;
+	margin-top: 100px;
+
+
+}
+
+
+/*MENU*/
+
+
+h2 {
+font-size: 15px;
+}
+
+.vvvv {
+    margin-top: 30px;
+    margin-left: 20px;
+   
+}
+
+th {
+	background-color: #D07E5B;
+}
+
+.vvv {
+	margin-left: 20px;
+    margin-top: 30px;
+   
+}
+
+h3 {
+    font-size: 40px;
+    text-align: center;  
+}
+
+#v{
+  margin-top: 50px;
+  color: white;
+
+}
+#vv1{
+  margin-top: 40px;
+  color: white;
+}	
+
+table {
+width: 40%;
+
+}
